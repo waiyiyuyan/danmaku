@@ -105,7 +105,3 @@ gcc main.c resource.o -o danmaku.exe -lws2_32 -lgdi32 -luser32 -mwindows
 
 ## 📄 开源许可
 MIT License，可自由学习、修改、二次分发，商用/个人使用无限制。
-
-## 可选：仓库标签（Topics）
-复制到仓库设置Topics：
-`windows` `c-language` `win32` `udp` `局域网工具` `托盘程序` `桌面弹幕` `网络编程` `开源工具`
